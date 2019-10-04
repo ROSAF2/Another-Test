@@ -2,7 +2,7 @@
 
 > This is  
 a *Block*_*quote*_  
-with some text in it  
+with some **bold** text in it  
 lol
 
 ```C#
