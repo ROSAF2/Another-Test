@@ -1,7 +1,7 @@
 # This is just a readme file
 
 > This is  
-a _*Blockquote*_  
+a **Blockquote**  
 with some **bold** text in it  
 lol
 
