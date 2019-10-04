@@ -1,4 +1,4 @@
-#This is just a readme file
+# This is just a readme file
 
 > This is  
 a *Block*_*quote*_  
@@ -8,7 +8,7 @@ lol
 ```C#
 int[,,] array3D = new int[,,]; // This is a multidimensional array
 ```
-## Simple table
+### Simple table
 |Head1|Head2|
 |-----|-----|
 |Data1|Data2|
