@@ -10,7 +10,7 @@ int[,,] array3D = new int[,,]; // This is a multidimensional array
 ```
 ### Just a table
 |Head1|Head2|
-|-----|-----|
+|:---|---:|
 |Data1|Data2|
 
 ---
@@ -26,4 +26,4 @@ This is a list
 	- LOL
 		- LIL
 ---
-This is markdown
+This is markdown 2.0
